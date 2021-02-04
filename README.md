@@ -4,9 +4,9 @@
 <br>
 
 <h2>NEAT INTERFACE</h2>
-<img src="images/todo-2.PNG">
-<h4>ToDO List</h4>
 <img src="images/todo-1.PNG">
+<h4>ToDO List</h4>
+<img src="images/todo-2.PNG">
 <br>
 
 
