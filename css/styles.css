@@ -17,10 +17,6 @@ body{
     flex-flow: row wrap;
 }
 
-.todoHeaderBrand{
-    /* margin-left: .; */
-}
-
 .todo{
     flex: 0 0 50%;
     background-color: #e2f3f5;
