@@ -1,5 +1,4 @@
 <h1>TODO LIST</h1>
-<img src="public/images/readme-logo.PNG" align="center">
 <p><strong>Goal: </strong>Add, update and delete tasks whenever and wherever you want.</p>
 <br>
 
