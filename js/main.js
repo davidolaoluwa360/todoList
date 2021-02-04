@@ -34,3 +34,10 @@ if(taskData.length > 0){
         todo.addTodo();
     });
 }
+
+// close the modal pop up
+const close = document.getElementById("close");
+const closeParent = document.querySelector(".Instruction-wrapper");
+close.addEventListener("click", (e) => {
+    closeParent.style.display = "none";
+});
